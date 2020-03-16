@@ -19,7 +19,7 @@ Projeto para inicar com Mobx no flutter consumindo api's.
 
 ## Screenshots
 
-<img src="https://github.com/DuhAlonso/get_user_github_flutter_mobx/blob/master/screenshot/homeMobxGetUser.png" width="250"
+<img src="https://github.com/DuhAlonso/get_user_github_flutter_mobx/blob/master/screenshot/homeMobxGetUser.png" width="250">
 
 ### Estudar é fundamental para um bom futuro, estudar e praticar é a chave do SUCESSO!
 
