@@ -25,7 +25,7 @@ class _HomeMobxState extends State<HomeMobx> {
             icon: Icon(Icons.refresh),
           )
         ],
-        title: Text("Primeiros Passos"),
+        title: Text("MobX + Consumo de API"),
         centerTitle: true,
       ),
       body: Center(

@@ -1,16 +1,28 @@
-# primeiros_passos_mobx
+# Primeiro projeto Flutter com Mobx
 
-A new Flutter project.
+Projeto para inicar com Mobx no flutter consumindo api's.
 
-## Getting Started
+## Seus primeiros passos começam aqui
 
-This project is a starting point for a Flutter application.
+:iphone: Neste App pode conhecer o funcionamento do **MobX**
 
-A few resources to get you started if this is your first Flutter project:
+- [Instalação do flutter](https://flutter.dev/docs/get-started)
+- [O que é Widgets?](https://flutter.dev/docs/development/ui/widgets)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+:sunglasses: Qualquer dúvida me chama!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+:v: [Github](https://github.com/DuhAlonso)
+
+:v: [Linkedin](https://www.linkedin.com/in/duhalonso/)
+
+:v: [Telegram](https://t.me/duhalonso)
+
+## Screenshots
+
+<img src="https://github.com/DuhAlonso/get_user_github_flutter_mobx/blob/master/screenshot/homeMobxGetUser.png" width="250"
+
+### Estudar é fundamental para um bom futuro, estudar e praticar é a chave do SUCESSO!
+
+## LICENSE
+
+[Ler](https://github.com/DuhAlonso/app_primeiros_passos/blob/master/LICENSE.md)
